@@ -1,1 +1,1 @@
-# k8soperatordemo
+# Kubernetes Operator Demo
